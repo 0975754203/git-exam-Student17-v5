@@ -5,7 +5,8 @@
 This repository is created for the Git practical examination.
 Students must demonstrate their ability to manage version control
 using Git in real-world scenarios.
-This branch adds extra information about the examination workflo
+This examination also evaluates branching and collaboration skills.
+Use code with caution.
 
 ---
 
