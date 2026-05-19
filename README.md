@@ -9,10 +9,11 @@ This branch adds extra information about the examination workflo
 
 ---
 
-## Project Structure
+## Overview
 
-The repository initially contains the following files:
-- README.md
-- Notes may be added during development
+This repository is created for the Git practical examination.
+Students must demonstrate their ability to manage version control
+using Git in real-world scenarios.
+This branch adds extra information about the examination workflow.
 
 ---
